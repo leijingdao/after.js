@@ -1,7 +1,7 @@
 {
   "name": "@leijingdao/after",
   "private": false,
-  "version": "3.1.2",
+  "version": "3.1.3-canary.0",
   "description": "fork from @jaredpalmer/after",
   "repository": "leijingdao/after.js",
   "author": "leijingdao <leijingdao@gmail.com>",
