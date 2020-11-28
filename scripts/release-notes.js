@@ -2,7 +2,7 @@ const got = require('got');
 
 async function main() {
   const res = await got(
-    'https://api.github.com/repos/jaredpalmer/after.js/releases',
+    'https://api.github.com/repos/leijingdao/after.js/releases',
     {
       responseType: 'json',
     }
@@ -104,7 +104,7 @@ async function main() {
 
   // Add compare link
   finalMessage.push(
-    `https://github.com/jaredpalmer/after.js/compare/${firstVersion}...${lastVersion}`
+    `https://github.com/leijingdao/after.js/compare/${firstVersion}...${lastVersion}`
   );
 
   return {

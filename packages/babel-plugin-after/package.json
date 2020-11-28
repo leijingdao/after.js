@@ -1,24 +1,24 @@
 {
-  "name": "babel-plugin-after",
+  "name": "@leijingdao/babel-plugin-after",
   "private": false,
   "version": "3.1.2",
   "description": "Babel plugin for After.js",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaredpalmer/after.js.git"
+    "url": "git+https://github.com/leijingdao/after.js.git"
   },
   "keywords": [
     "babel",
     "plugin",
     "afterjs"
   ],
-  "author": "Nima Arefi <nimaarefi@outlook.com> (https://twitter.com/nima_arf)",
+  "author": "leijingdao <leijingdao@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaredpalmer/after.js/issues"
+    "url": "https://github.com/leijingdao/after.js/issues"
   },
-  "homepage": "https://github.com/jaredpalmer/after.js/packages/babel-plugin-after#readme",
+  "homepage": "https://github.com/leijingdao/after.js/packages/babel-plugin-after#readme",
   "scripts": {
     "test:ci": "echo \"no test specified for babel-plugin-after\" && exit 0",
     "clean": "rm -rf lib",
